@@ -23,6 +23,6 @@ color:
     - '#3e4420'
   brandStrength: 0.1875
   lightness: 0.6875
-  saturation: 0
+  saturation: 0.25
   rhythmicContrast: 1
 purpose: []
