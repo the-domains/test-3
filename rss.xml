@@ -4,21 +4,14 @@
         <description><![CDATA[Test 3]]></description>
         <link>https://thegrid.ai/test-3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 16:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 09:45:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Round Midnight]]></title>
-            <description><![CDATA[<article><h1>Welcome to Round Midnight</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04ae682478ff39541ee585d2f0482a1ea1e6f642.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Welcome to Round Midnight</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c545a43f97d1f6e392f36ad3c9263a5063ae3cc2.jpg"></article>]]></description>
             <link>https://twitter.com/Round_Midnight1?lang=en</link>
             <guid isPermaLink="false">dbfe5548-a463-479a-b6bd-da3bab2df451</guid>
             <pubDate>Sun, 10 Jan 2016 16:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99154c1d-d04e-4d9e-872c-4fbbbab97016.jpg">]]></description>
-            <link>https://thegrid.ai/test-3/1b76c452-276c-4313-bbbf-f021a2f0e1e2/index.html</link>
-            <guid isPermaLink="false">1b76c452-276c-4313-bbbf-f021a2f0e1e2</guid>
-            <pubDate>Sat, 09 Jan 2016 21:14:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
